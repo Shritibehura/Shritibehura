@@ -5,7 +5,6 @@
   <a href="mailto:shritibehura@gmail.com">📧 shritibehura@gmail.com</a> • 
   <a href="https://linkedin.com/in/shritiBehura" target="_blank">🔗 LinkedIn</a> • 
   <a href="https://github.com/Shritibehura" target="_blank">💻 GitHub</a> • 
-  📱 +91-8882022087
 </p>
 
 ---
