@@ -9,24 +9,9 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-### 🧩 Programming Languages
-`Python` `SQL` `Markdown` `C`
-
-### 📦 Libraries & Frameworks
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn` `SciPy`
-
-### 📊 Business Intelligence / Visualization Tools
-`Power BI` `Excel` `Tableau` `Looker`
-
-### 💻 Developer Tools
-`Jupyter Notebook` `VS Code` `Git` `GitHub` `MySQL` `MS Word`
-
-### 🧠 Soft Skills
-`Problem Solving` `Communication` `Agility`
-
----
+`Excel` `Power BI` `Tableau` `Python` `Pandas` `MySQL`
 
 ---
 
