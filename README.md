@@ -15,14 +15,6 @@
 
 ---
 
-## 📜 Courses & Certification
-
-- **The Complete Introduction to Excel** — *Udemy*  
-  Hands-on experience in Excel basics to advanced functions including VLOOKUP, pivot tables, and data visualization techniques.  
-  📄 [View Certificate](#) *(Update this with the actual certificate link if available)*
-
----
-
 ## 📈 GitHub Stats
 
 ![Shriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shritibehura&show_icons=true&theme=tokyonight)
