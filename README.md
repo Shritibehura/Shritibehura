@@ -15,7 +15,7 @@
 
 ---
 
-## 📜 Courses & Certifications
+## 📜 Courses & Certification
 
 - **The Complete Introduction to Excel** — *Udemy*  
   Hands-on experience in Excel basics to advanced functions including VLOOKUP, pivot tables, and data visualization techniques.  
