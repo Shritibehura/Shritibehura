@@ -11,10 +11,22 @@
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, SQL  
-**Libraries:** Pandas, Seaborn, Matplotlib  
-**Tools:** VS Code, Jupyter Notebook, MySQL, Power BI, Tableau, Git, MS Excel, MS Word  
-**Soft Skills:** Problem Solving, Communication, Agility
+### 🧩 Programming Languages
+`Python` `SQL` `Markdown` `C`
+
+### 📦 Libraries & Frameworks
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn` `SciPy`
+
+### 📊 Business Intelligence / Visualization Tools
+`Power BI` `Excel` `Tableau` `Looker`
+
+### 💻 Developer Tools
+`Jupyter Notebook` `VS Code` `Git` `GitHub` `MySQL` `MS Word`
+
+### 🧠 Soft Skills
+`Problem Solving` `Communication` `Agility`
+
+---
 
 ---
 
